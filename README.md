@@ -2,11 +2,8 @@
 
 A UNIX Command Line Interpreter
 
-# Simple Shell
-
 A re-creation of a UNIX shell using C.
 
-**NOTE: Add a picture here!**
 
 
 ## Examples
